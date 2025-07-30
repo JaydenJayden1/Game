@@ -10,7 +10,7 @@ pygame.display.set_caption('NGUNGUN')
 
 x = 200
 y = 200
-img = pygame.image.load("fsVOjV=removebg=preview.png")
+img = pygame.image.load('C:\Users\docun\OneDrive\Documents\GitHub\GamefsVOjV-removebg-preview.png')
 rect = img.get_rect()
 rect.center = (x, y)
 
